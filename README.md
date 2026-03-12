@@ -1,1 +1,1 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:fff4b8,100:ffc178&height=350&section=header&text=Computational%20Solid%20Mechanics&fontSize=45&fontColor=ffffff&desc=Physics-Informed%20AI%20for%20Materials%20%26%20Structures&descSize=22&descAlignY=70)](https://sites.google.com/site/seunghwalab/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
