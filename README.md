@@ -20,8 +20,6 @@ Main research topics include:
 ## 🔬 Research Interests
 
 - Physics-Informed Machine Learning  
-- Generative Models for Engineering Design  
-- Hyperelastic Material Modeling  
 - Inverse Problems in Computational Mechanics  
 - AI-driven Materials and Structural Design  
 
@@ -29,9 +27,13 @@ Main research topics include:
 
 ## 🚀 Featured Research Projects
 
-### Physics-Informed Neural Networks (PINN)
+### To be filled
 
-Physics-informed neural network frameworks for solving forward and inverse problems in computational mechanics.
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HyeonBin-Moon&theme=tokyo-night)
 
 
 ---
@@ -43,11 +45,6 @@ Physics-informed neural network frameworks for solving forward and inverse probl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonBin-Moon&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HyeonBin-Moon&theme=tokyo-night)
 
 
 
