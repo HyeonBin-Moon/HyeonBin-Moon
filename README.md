@@ -1,10 +1,100 @@
-
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:E4E5E6&height=300&section=header&text=Hyeonbin%20Moon's%20GitHub&fontSize=45&fontColor=ffffff&desc=Click%20to%20visit%20my%20Google%20Scholar&descSize=20&descAlignY=70)](https://scholar.google.com/citations?user=YVXCVJMAAAAJ)
 
+---
 
+## 👋 About Me
+
+I am a **Ph.D. student at KAIST** working on **computational mechanics and physics-informed machine learning**.
+
+My research focuses on integrating **physics-based modeling and machine learning** for reliable inverse design and material discovery.
+
+Main research topics include:
+
+- Physics-Informed Machine Learning (PINN, PIDM)
+- Diffusion Models for Inverse Design
+- Hyperelastic Material Modeling
+- Computational Solid Mechanics
+- AI-driven Material Design
+
+---
+
+## 🔬 Research Interests
+
+- Physics-Informed Machine Learning  
+- Generative Models for Engineering Design  
+- Hyperelastic Material Modeling  
+- Inverse Problems in Computational Mechanics  
+- AI-driven Materials and Structural Design  
+
+---
+
+## 📄 Publications
+
+- **An Energy-Based Physics-Informed Computational Framework for Forward and Inverse Flexoelectric Problems**  
+  *Computer Methods in Applied Mechanics and Engineering*  
+  https://doi.org/10.1016/j.cma.2025.118258
+
+- Physics-Informed Diffusion Models for Hyperelastic Inverse Design *(in preparation)*
+
+---
+
+## 🚀 Featured Research Projects
+
+### Physics-Informed Diffusion Model (PIDM)
+
+A diffusion-based inverse design framework for hyperelastic materials that integrates physics constraints into generative modeling.
+
+---
+
+### Hyperelastic FEM Solver
+
+A Total Lagrangian finite element solver for nonlinear hyperelastic materials used for validating AI-generated designs.
+
+---
+
+### Energy-Based PINN
+
+Physics-informed neural network framework for solving forward and inverse flexoelectric problems using energy principles.
+
+---
+
+## 🛠 Tech Stack
+
+Python | PyTorch | NumPy | SciPy | FEM | Diffusion Models | Abaqus | LAMMPS
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HyeonBin-Moon&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonBin-Moon&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HyeonBin-Moon&theme=tokyo-night)
+
+---
+
+## 📂 Research Repositories
+
+Some repositories related to my research include:
+
+- Physics-Informed Neural Networks (PINN)
+- Physics-Informed Diffusion Models (PIDM)
+- Hyperelastic FEM Solver
+- Inverse Design Frameworks
+
+---
+
+## 📫 Contact
+
+- Google Scholar  
+https://scholar.google.com/citations?user=YVXCVJMAAAAJ
+
+---
+
+![](https://komarev.com/ghpvc/?username=HyeonBin-Moon)
