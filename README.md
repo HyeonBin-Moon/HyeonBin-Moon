@@ -52,8 +52,7 @@ For a complete list of publications, please visit my **Google Scholar**:
 
 ## 📫 Contact
 
-- Google Scholar  
-https://scholar.google.com/citations?user=YVXCVJMAAAAJ
+
 
 ---
 
