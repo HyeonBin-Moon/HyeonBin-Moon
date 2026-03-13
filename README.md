@@ -33,23 +33,6 @@ Main research topics include:
 
 Physics-informed neural network frameworks for solving forward and inverse problems in computational mechanics.
 
----
-
-### Hyperelastic FEM Solver
-
-A Total Lagrangian finite element solver for nonlinear hyperelastic materials used for validating AI-generated designs.
-
----
-
-### Inverse Design Frameworks
-
-Machine learning-based frameworks for solving inverse design problems in mechanical systems and materials.
-
----
-
-## 🛠 Tech Stack
-
-Python | PyTorch | NumPy | SciPy | FEM | Abaqus | LAMMPS
 
 ---
 
@@ -66,17 +49,7 @@ Python | PyTorch | NumPy | SciPy | FEM | Abaqus | LAMMPS
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HyeonBin-Moon&theme=tokyo-night)
 
----
 
-## 📂 Research Repositories
-
-Some repositories related to my research include:
-
-- Physics-Informed Neural Networks (PINN)
-- Hyperelastic FEM Solver
-- Inverse Design Frameworks
-
----
 
 ## 📫 Contact
 
