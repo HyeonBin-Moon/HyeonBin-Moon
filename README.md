@@ -48,11 +48,10 @@ For a complete list of publications, please visit my **Google Scholar**:
 </p>
 
 
-
-
+---
 ## 📫 Contact
 
-
+- 📧 Email: mhb0123@kaist.ac.kr  
 
 ---
 
