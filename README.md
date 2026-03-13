@@ -10,9 +10,9 @@ My research focuses on integrating **physics-based modeling and machine learning
 
 Main research topics include:
 
-- Physics-Informed Machine Learning (PINN)
-- Hyperelastic Material Modeling
 - Computational Solid Mechanics
+- Physics-Informed Machine Learning (PIML)
+- Uncertainty quantification
 - AI-driven Material Design
 
 ---
