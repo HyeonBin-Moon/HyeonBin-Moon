@@ -10,8 +10,7 @@ My research focuses on integrating **physics-based modeling and machine learning
 
 Main research topics include:
 
-- Physics-Informed Machine Learning (PINN, PIDM)
-- Diffusion Models for Inverse Design
+- Physics-Informed Machine Learning (PINN)
 - Hyperelastic Material Modeling
 - Computational Solid Mechanics
 - AI-driven Material Design
@@ -28,21 +27,11 @@ Main research topics include:
 
 ---
 
-## 📄 Publications
-
-- **An Energy-Based Physics-Informed Computational Framework for Forward and Inverse Flexoelectric Problems**  
-  *Computer Methods in Applied Mechanics and Engineering*  
-  https://doi.org/10.1016/j.cma.2025.118258
-
-- Physics-Informed Diffusion Models for Hyperelastic Inverse Design *(in preparation)*
-
----
-
 ## 🚀 Featured Research Projects
 
-### Physics-Informed Diffusion Model (PIDM)
+### Physics-Informed Neural Networks (PINN)
 
-A diffusion-based inverse design framework for hyperelastic materials that integrates physics constraints into generative modeling.
+Physics-informed neural network frameworks for solving forward and inverse problems in computational mechanics.
 
 ---
 
@@ -52,15 +41,15 @@ A Total Lagrangian finite element solver for nonlinear hyperelastic materials us
 
 ---
 
-### Energy-Based PINN
+### Inverse Design Frameworks
 
-Physics-informed neural network framework for solving forward and inverse flexoelectric problems using energy principles.
+Machine learning-based frameworks for solving inverse design problems in mechanical systems and materials.
 
 ---
 
 ## 🛠 Tech Stack
 
-Python | PyTorch | NumPy | SciPy | FEM | Diffusion Models | Abaqus | LAMMPS
+Python | PyTorch | NumPy | SciPy | FEM | Abaqus | LAMMPS
 
 ---
 
@@ -84,7 +73,6 @@ Python | PyTorch | NumPy | SciPy | FEM | Diffusion Models | Abaqus | LAMMPS
 Some repositories related to my research include:
 
 - Physics-Informed Neural Networks (PINN)
-- Physics-Informed Diffusion Models (PIDM)
 - Hyperelastic FEM Solver
 - Inverse Design Frameworks
 
