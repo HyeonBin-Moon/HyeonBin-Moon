@@ -25,9 +25,11 @@ Main research topics include:
 
 ---
 
-## 🚀 Featured Research Projects
+## 📄 Publications
 
-### To be filled
+For a complete list of publications, please visit my **Google Scholar**:
+
+🔗 https://scholar.google.com/citations?user=YVXCVJMAAAAJ
 
 ---
 
